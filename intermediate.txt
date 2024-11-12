@@ -1,0 +1,6 @@
+Location	Label	Opcode	Operand
+100	LOOP	LOAD	A
+101	null	ADD	B
+102	null	STORE	C
+103	null	JMP	LOOP
+104	END
